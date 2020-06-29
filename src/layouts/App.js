@@ -10,7 +10,7 @@ import Offer from "./Offer";
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="app">
           <header>{<Header />}</header>
           <section className="offer">{<Offer />}</section>
