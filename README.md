@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Used techniques
+
+* javascript 
+* CSS keyframes-animation (offer banner), flexbox layout
+
 Pictures: https://pixabay.com/
 
 
